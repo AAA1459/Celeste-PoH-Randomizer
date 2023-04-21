@@ -1,0 +1,23 @@
+- Name: MountKimitanySagaRandomizerConfig
+  Version: 0.2.1.2
+  Dependencies:
+    - Name: CherryHelper
+      Version: 1.6.8
+    - Name: DJMapHelper
+      Version: 1.8.33
+    - Name: Everest
+      Version: 1.2742.0
+    - Name: HonlyHelper
+      Version: 1.3.2
+    - Name: KimitanyAudio
+      Version: 0.2.0
+    - Name: LuaCutscenes
+      Version: 0.2.2
+    - Name: PandorasBox
+      Version: 1.0.30
+    - Name: PathofHopeChapter
+      Version: 1.0.4
+    - Name: MountKimitanySaga
+      Version: 0.2.1
+    - Name: Randomizer
+      Version: 0.6.0

@@ -1,0 +1,70 @@
+CollectableNames:
+  - "strawberry"
+  - "key"
+  - "summitgem"
+Music:
+  - Name: "event:/TheProlouge/ProlougeTheme"
+    Weight: 6
+  - Name: "event:/PathofHope/FieldofHopesandDreams"
+    Weight: 4
+  - Name: "event:/PathofHope/DR_RudeBuster"
+    Weight: 4
+  - Name: "event:/PathofHope/RMX_Field"
+    Weight: 8
+  - Name: "event:/PathofHope/CSide_RudeBuster"
+    Weight: 6
+  - Name: "event:/PathofHope/Bird_Intermission"
+    Weight: 0.5
+  - Name: "event:/PathofHope/Lovania_Field"
+    Weight: 0.5
+  - Name: "event:/PathofHope/WorldRevolving"
+    Weight: 6
+  - Name: "event:/PathofHope/MegaloRevolving"
+    Weight: 0.25
+  - Name: "event:/AquaShrine/UT_Waterfall"
+    Weight: 6
+  - Name: "event:/AquaShrine/FISHTASNK_LittleGoth"
+    Weight: 0.5
+  - Name: "event:/AquaShrine/ANTIB_Planetarium"
+    Weight: 4
+  - Name: "event:/AquaShrine/ANTIB_Downpour"
+    Weight: 6
+  - Name: "event:/AquaShrine/VETROM_REMIX_UT_Waterfall"
+    Weight: 8
+  - Name: "event:/AquaShrine/UT_YELLOW_Enemy_Retreating"
+    Weight: 6
+
+Backgrounds:
+  - Texture: "bgs/aquashrine_bg/actual_temple_bg/Starfield"
+    Opaque: true
+    SpeedX: -15
+    SpeedY: -15
+    LoopY: true
+    LoopX: true
+  - Texture: "bgs/aquashrine_bg/actual_temple_bg/bg01_ScrollingWaterfalls"
+    LoopY: true
+    LoopX: true
+    SpeedY: 40
+  - Texture: "bgs/aquashrine_bg/downpour_bg/bg01_ScrollingWaterfalls"
+    LoopY: true
+    LoopX: true
+    SpeedY: 40
+  - Texture: "bgs/aquashrine_bg/aquarium_bg/bg00_Lightbeams1"
+    LoopY: true
+    LoopX: true
+  - Texture: "bgs/aquashrine_bg/aquarium_bg/bg01_Lightbeams2"
+    LoopY: true
+    LoopX: true
+  - Texture: "bgs/aquashrine_bg/aquarium_bg/bg02_FishFG"
+    LoopY: true
+    LoopX: true
+    SpeedX: -16
+  - Texture: "bgs/aquashrine_bg/aquarium_bg/bg04_FishBG"
+    LoopY: true
+    LoopX: true
+    SpeedX: -12
+
+
+
+
+

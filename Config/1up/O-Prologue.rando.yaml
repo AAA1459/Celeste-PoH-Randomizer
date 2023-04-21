@@ -1,0 +1,52 @@
+ASide:
+  - Room: "A_A01-S"
+
+    Holes:
+
+    - Side: Left
+      Idx: 0
+      Kind: inout
+    - Side: Right
+      Idx: 0
+      Kind: inout
+    - Side: Up
+      Idx: 0
+      Kind: none
+  - Room: "A_A01"
+    ReqEnd:
+
+      Difficulty: easy
+    Worth: 1
+    Holes:
+
+    - Side: Left
+      Idx: 0
+      Kind: in
+    - Side: Left
+      Idx: 1
+      Kind: in
+    - Side: Left
+      Idx: 2
+      Kind: in
+    - Side: Left
+      Idx: 3
+      Kind: in
+    - Side: Right
+      Idx: 1
+      Kind: in
+    - Side: Up
+      Idx: 0
+      Kind: none
+    - Side: Right
+      Idx: 0
+      Kind: in
+      ReqOut:
+        Dashes: two
+    Tweaks:
+    - Name: "invisibleBarrier"
+      Update: 
+        Add: true
+        X: 816
+        Y: 344
+        Width: 8
+        Height: 56
